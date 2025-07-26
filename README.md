@@ -43,7 +43,6 @@ A powerful full-stack application that transforms simple website ideas into comp
 ### Development Tools
 - **ESLint** - Code quality and consistency
 - **Prettier** - Automated code formatting
-- **Jest** - Comprehensive testing framework
 - **TypeScript** - Static type checking
 
 ## 📁 Project Architecture
