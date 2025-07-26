@@ -15,7 +15,23 @@ A full-stack application that transforms simple website ideas into comprehensive
 **Frontend:** Next.js 15, React 19, Tailwind CSS, TypeScript  
 **Backend:** NestJS, MongoDB, Mongoose, Class Validator  
 
+<<<<<<< HEAD
 ## 📁 Project Structure
+=======
+### Backend
+- **NestJS** - Enterprise-grade Node.js framework
+- **MongoDB** - NoSQL database for flexible data storage
+- **Mongoose 8.16.5** - Elegant MongoDB object modeling
+- **Class Validator** - Decorator-based validation
+- **CORS Enabled** - Secure cross-origin resource sharing
+
+### Development Tools
+- **ESLint** - Code quality and consistency
+- **Prettier** - Automated code formatting
+- **TypeScript** - Static type checking
+
+## 📁 Project Architecture
+>>>>>>> e4050915a781d46e0380e48e466f6d35a718fc88
 
 ```
 website-idea-generator/
@@ -147,4 +163,10 @@ MIT License - see LICENSE file for details.
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ using modern web technologies** 
+=======
+**Built with ❤️ using modern web technologies**
+
+*Need help? Open an issue or reach out to the development team!* 
+>>>>>>> e4050915a781d46e0380e48e466f6d35a718fc88
